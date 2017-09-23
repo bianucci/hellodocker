@@ -6,4 +6,4 @@ RUN apt-get update && apt-get install -y \
   nginx \
   git
 
-CMD [“echo”,”Image created”] 
+CMD ["echo","Image created"]
